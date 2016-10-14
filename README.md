@@ -1,1 +1,3 @@
-this project is not finished"# word-based-text-generator" 
+# word-based-text-generator" 
+
+A word-based-text-generator using keras (unfinished)
